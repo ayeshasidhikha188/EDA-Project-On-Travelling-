@@ -5,6 +5,9 @@
 * This project focuses on conducting Exploratory Data Analysis (EDA) to understand various aspects of customers' travel preferences, spending behaviors, and satisfaction levels.
 *  By segmenting customers based on their travel experiences, we aim to uncover insights that can inform marketing strategies, product offerings, and customer satisfaction initiatives.
 
+*  ![image](https://github.com/ayeshasidhikha188/EDA-Project-On-Travelling-/assets/147414813/ca120009-26f9-47fb-bdc2-d661a6c57c98)
+
+
 ## Contents
 
 ### Web Scraping Project
